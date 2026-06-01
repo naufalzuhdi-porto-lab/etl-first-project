@@ -1,0 +1,6 @@
+api:
+  product_url : "https://fakestoreapi.com/products"
+
+etl:
+  target_table : "product_etl"
+  if_exists : "replace"
